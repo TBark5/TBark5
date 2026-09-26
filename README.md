@@ -1,13 +1,47 @@
 <h1 align="center">Tae Bark</h1>
 
 <p align="center">
-  Computational biology and machine learning in Python: epidemic models, cancer genomics and explainable classifiers.
+  Biology student at UNC-Chapel Hill on the pre-dental track, building computational biology projects in Python.
 </p>
 
 <p align="center">
   <a href="https://github.com/TBark5?tab=repositories"><img src="https://img.shields.io/badge/Projects-30363D?style=flat-square&logo=github&logoColor=white" alt="Projects"></a>
   <a href="https://pandemica.streamlit.app"><img src="https://img.shields.io/badge/Live%20demo-PANDEMICA-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Live demo"></a>
 </p>
+
+### ◉ About Me
+
+I study Biology at the **University of North Carolina at Chapel Hill**, with minors in Chemistry and Neuroscience, and I'm headed toward dentistry. Alongside clinical work as a dental assistant, I build Python projects that apply data science to health questions: how an outbreak spreads, which genes change in oral cancer, and how a tumor classifier can explain its own predictions.
+
+<table width="100%">
+<tbody>
+<tr>
+<td width="50%" valign="top">
+<p><b>Education</b><br>
+B.S. Biology, minors in Chemistry and Neuroscience<br>
+UNC-Chapel Hill, expected May 2027</p>
+<p><b>Clinical</b><br>
+Dental assistant in general dentistry and oral &amp; maxillofacial surgery<br>
+Volunteer with Wake Smiles and on dental mission trips to Nicaragua</p>
+<p><b>Teaching</b><br>
+Biology Learning Assistant at UNC (4 semesters)<br>
+Biochemistry Teaching Assistant</p>
+</td>
+<td width="50%" valign="top">
+<p><b>Leadership</b><br>
+Treasurer, Delta Delta Sigma Pre-Dental Honor Society<br>
+Youth Leader, Hanmaum Church</p>
+<p><b>Community</b><br>
+Blood Donor Ambassador, American Red Cross<br>
+Food bank volunteer, Chatham Alliance</p>
+<p><b>Languages</b><br>
+English and Korean (fluent)</p>
+<p><b>Off the clock</b><br>
+Cello, bass guitar, cooking and video games</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 ### ◇ Tech Stack
 
