@@ -136,10 +136,4 @@ Reanalysis of public RNA-seq data (GEO GSE20116) comparing oral squamous cell ca
 </tbody>
 </table>
 
-### ◈ How I Build
-
-- **Reproducible:** one command rebuilds every result and figure from the raw data.
-- **Tested:** pytest suites and GitHub Actions CI on every project.
-- **Honest about limits:** held-out evaluation, stated caveats, and no clinical or policy claims.
-
 <p align="center"><sub>All projects are educational and use public data. None are medical devices or forecasting tools.</sub></p>
